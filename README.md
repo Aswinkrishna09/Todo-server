@@ -1,11 +1,7 @@
 Clone the Repository
 
-Then install packages
-    Frontend:
-        -> cd frontend
-        -> npm i
-    Backend:
-        -> npm i
+Then install packages type
+        -> npm install
 
-To start project
-    -> npm run dev
+To start backend server
+        -> npm run server
